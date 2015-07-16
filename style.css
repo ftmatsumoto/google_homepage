@@ -1,0 +1,115 @@
+body {
+	text-align: center;
+}
+
+div {
+	display: block;
+}
+
+#topo {
+	display: block;
+	position: absolute;
+	top: 15px;
+	height: 30px;
+	width: 100%;
+	font: small arial,sans-serif;
+}
+
+#nome {
+	position: absolute;
+	top: 7.5px;
+}
+#gmail {
+	position: absolute;
+	top: 7.5px;
+}
+#images {
+	position: absolute;
+	top: 7.5px;
+}
+
+#avatar {
+	border-radius: 50%;
+	height: 30px;
+	width: 30px;	
+}
+
+#notification {
+	border-radius: 50%;
+	height: 30px;
+	width: 30px;	
+}
+
+#apps {
+	height: 30px;
+	width: 30px;	
+}
+
+#lga {
+	height: 231px;
+	margin-top: 45px;
+	text-align: -webkit-center;
+}
+
+#logo {
+	margin-top: 110px;
+	height: 95px; 
+	width: 269px;
+}
+
+#logo-sub {
+	font: small arial,sans-serif;
+	color: #777;
+	font-size: 16px;
+	font-weight: bold;
+	position: relative;
+	top: -28px;
+	left: 83px;
+	white-space: nowrap;
+	width: 0;
+}
+
+#f {
+	display: block;
+	height: 39px;
+	margin-top: 0em;
+}
+
+#fkbx {
+	background-color: #fff;
+	font-size: 18px;
+	cursor: text;
+	border: 1px solid rgb(185,185,185);
+	border-radius: 1px;
+	border-top-color: rgb(160,160,160);
+	display: inline-block;
+	height: 36px;
+	line-height: 36px;
+	position: relative; 
+	width: 618px;
+}
+
+#fkbx-txt {
+	color: #bbb;
+	font-size: 16px;
+	left: 9px;
+	right: 9px;
+	margin-top: 1px;
+	overflow: hidden;
+	position: absolute;
+	visibility: inherit;
+	text-align: left;
+}
+
+#q {
+	background: transparent;
+	border: none;
+	padding: 0 8px;
+	position: absolute;
+	top: 0px;
+	width: 100%;
+	left: 0;
+	bottom: 0;
+
+
+}
